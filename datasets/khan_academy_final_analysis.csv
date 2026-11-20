@@ -1,0 +1,14 @@
+﻿analysis_area,metric,period,value,unit,previous_period_value,change_pct,analysis_status,interpretation,source
+Engagement,Annual learning minutes,SY2021-22,7000000000.0,minutes,,,Usable with qualification,"Approximately 7 billion minutes. The report's figure excludes Khan Academy Kids. Use as a reported value, not as a directly comparable baseline.",Khan Academy SY2021-22 annual report
+Engagement,Annual learning minutes,SY2022-23,7700000000.0,minutes,,,Reported value; growth comparison excluded,"7.7 billion minutes, including 1.2 billion minutes on Khan Academy Kids. Do not calculate validated growth against SY2021-22 because reporting coverage differs.",Khan Academy SY2022-23 annual report
+Engagement,Annual learning minutes,SY2023-24,8700000000.0,minutes,,,Reported value; growth comparison provisional,8.7 billion minutes as reported. Year-over-year growth is not validated because consistent reporting coverage across periods has not been confirmed.,Khan Academy SY2023-24 annual report
+Engagement,Annual learning minutes,SY2024-25,8100000000.0,minutes,,,Reported value; growth comparison provisional,8.1 billion minutes as reported. Do not present the year-over-year percentage as a validated KPI until consistent reporting coverage is confirmed.,Khan Academy SY2024-25 annual report
+Reach,New registered learners,SY2021-22,14800000.0,learners,,,Approximate,Approximately 14.8 million new registered learners.,Khan Academy SY2021-22 annual report
+Reach,New registered learners,SY2022-23,13700000.0,learners,14800000.0,-7.43,Approximate,New registrations declined year over year.,Khan Academy SY2022-23 annual report
+Reach,New registered learners,SY2023-24,14800000.0,learners,13700000.0,8.03,Approximate,New registrations recovered year over year.,Khan Academy SY2023-24 annual report
+Reach,New registered learners,SY2024-25,20900000.0,learners,14800000.0,41.22,Reported figure,New registrations increased year over year.,Khan Academy SY2024-25 annual report
+Reach,Cumulative registered users,SY2022-23,150000000.0,users,,,Lower-bound statement,The source reports more than 150 million users; this is not an exact value.,Khan Academy SY2022-23 annual report
+Reach,Cumulative registered users,SY2024-25,189600000.0,users,,,Reported figure,Cumulative registered users; no growth rate calculated.,Khan Academy SY2024-25 annual report
+Engagement,Yearly active learners (YAL),SY2024-25,104900000.0,learners,,,Single-period observation,Learners who used Khan Academy during the school year.,Khan Academy SY2024-25 annual report
+Engagement,Yearly very active learners (YVAL),SY2024-25,1600000.0,learners,,,Single-period observation,Learners who used Khan Academy for 18 or more hours during the school year.,Khan Academy SY2024-25 annual report
+Reach,Registered users in SY2021-22,SY2021-22,,users,,,Excluded from trend,Conflicting cumulative-user figures remain unresolved.,Khan Academy SY2021-22 annual report context

@@ -1,0 +1,7 @@
+﻿fiscal_year,year_coverage,registered_learners_m_year_end,registered_learners_m_q1_end,revenue_usd,net_income_usd,course_enrollments_m,genai_enrollments_m,learners_check,financials_note,enrollments_note
+2021,full year,97,,415287000,-145215000,,,single_document,,
+2022,full year,118,,523756000,-175357000,,,single_document,,
+2023,full year,141.9,,635764000,-116554000,45,,single_document,,total: 'more than' (a floor); generative AI: not reported
+2024,full year,168.2,,694674000,-79530000,49.5,3.3,cross_checked,,"total: approximate; generative AI: approximate; counting basis may differ between filings, do not compare across years"
+2025,full year,197.3,175,757500000,-51000000,54.4,5.0,cross_checked,rounded to $0.1 million,"total: approximate; generative AI: approximate; counting basis may differ between filings, do not compare across years"
+2026,partial (as of 2026-03-31),,205,,,,,Q1 only; Coursera stopped reporting after Q1 2026,,
